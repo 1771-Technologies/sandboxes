@@ -1,7 +1,7 @@
 {
-  "title": "My Template",
-  "description": "This is my template",
+  "title": "Getting Started",
+  "description": "Basic Graphite Grid setup",
   "iconUrl": "https://example.com/icon.png",
-  "tags": ["react", "typescript"],
+  "tags": ["react", "typescript", "date-grid", "graphitegrid"],
   "published": true
 }
